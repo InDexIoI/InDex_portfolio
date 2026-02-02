@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>In Dex | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>ZweHtet_InDex</h1>
+        <p>Aspiring IT & Cybersecurity Student</p>
+    </header>
+
+    <!-- About -->
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hi, I’m In Dex. I am interested in IT and cybersecurity and plan to study in Japan.
+            I have passed JLPT N3and I am preparing for JLPT N2.
+            I enjoy learning technology, problem-solving, and languages.
+        </p>
+    </section>
+
+    <!-- Skills -->
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML & CSS (Basic)</li>
+            <li>JavaScript (Beginner)</li>
+            <li>Linux Basics</li>
+            <li>Networking Fundamentals</li>
+            <li>English Communication</li>
+            <li>Japanese (JLPT N3 level)</li>
+        </ul>
+    </section>
+
+    <!-- Projects -->
+    <section>
+        <h2>Projects</h2>
+
+        <div class="project">
+            <h3>Personal Portfolio Website</h3>
+            <p>
+                A simple portfolio website built using HTML and CSS to introduce myself
+                and show my learning journey.
+            </p>
+            <p><strong>Skills used:</strong> HTML, CSS</p>
+        </div>
+
+        <div class="project">
+            <h3>Basic Calculator</h3>
+            <p>
+                A beginner-friendly calculator made with JavaScript to practice logic and UI.
+            </p>
+            <p><strong>Skills used:</strong> HTML, CSS, JavaScript</p>
+        </div>
+    </section>
+
+    <!-- Learning -->
+    <section>
+        <h2>Learning & Goals</h2>
+        <ul>
+            <li>JLPT N3 preparation</li>
+            <li>EJU Mathematics (Course 2)</li>
+            <li>Cybersecurity fundamentals</li>
+            <li>Linux command line practice</li>
+        </ul>
+    </section>
+
+    <!-- Contact -->
+    <section>
+        <h2>Contact</h2>
+        <p>Email: xcross457@gmail.com</p>
+        <p>GitHub: github.com/yourusername</p>
+    </section>
+
+    <footer>
+        <p>© 2026 In Dex</p>
+    </footer>
+
+</body>
+</html>
